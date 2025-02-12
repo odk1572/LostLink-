@@ -11,7 +11,7 @@ const Dashboard = () => {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white">
-      <header className="bg-gray-800 shadow-lg p-4">
+      <header className="bg-gray-900 p-4">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold">Dashboard</h1>
         </div>
