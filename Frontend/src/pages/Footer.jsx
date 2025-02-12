@@ -41,7 +41,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="mt-6 border-t border-gray-700 pt-4 text-center text-sm">
           <p className="text-gray-400">
-            Made with <span className="text-red-500">❤️</span> by <span className="text-white font-semibold">ODK</span>
+            Made from scratch with <span className="text-red-500">❤️</span> by <span className="text-white font-semibold">ODK</span>
           </p>
         </div>
       </div>
